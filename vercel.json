@@ -2,6 +2,6 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "installCommand": "pnpm install --no-frozen-lockfile",
   "buildCommand": "pnpm run build",
-  "outputDirectory": "artifacts/spin-house/dist",
+  "outputDirectory": "dist",
   "framework": null
 }
